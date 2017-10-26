@@ -1,0 +1,13 @@
+// imports
+@import "palette";
+
+// code
+.s-header {
+  height: 5rem;
+  background-color: $green-dark;
+}
+.s-login {
+  color: $white;
+  margin: 0;
+  padding: 1.75rem 0rem 1.75rem 0rem;
+}
