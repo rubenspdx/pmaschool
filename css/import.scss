@@ -1,10 +1,10 @@
 // bootstrap
-@import "bootstrap/scss/bootstrap"; // Apenas usado para testes
-// @import "bootstrap/scss/bootstrap-grid";
-// @import "bootstrap/scss/bootstrap-reboot";
-// @import "bootstrap/scss/_mixins";
-// @import "bootstrap/scss/_utilities";
-// @import "bootstrap/scss/_carousel";
+// @import "bootstrap/scss/bootstrap"; // Apenas usado para testes
+@import "bootstrap/scss/bootstrap-grid";
+@import "bootstrap/scss/bootstrap-reboot";
+@import "bootstrap/scss/_mixins";
+@import "bootstrap/scss/_utilities";
+@import "bootstrap/scss/_carousel";
 
 // style
 @import "style/header";
